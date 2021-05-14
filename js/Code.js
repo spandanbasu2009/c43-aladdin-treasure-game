@@ -17,7 +17,7 @@ function clues() {
     text("Hint: What comes before draw,preload and setup ??",500,120);
     fill("white");
     textSize(15);
-    text("A T A D A S B A",300,300);
+    text("A T A D A S B E",300,300);
     fill("lightblue");
     text("Hint: When we want to write code in a project in firebase,we go to realtime ___________!!",300,320);
 }
